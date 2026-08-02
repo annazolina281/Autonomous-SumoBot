@@ -1,0 +1,1 @@
+Connect all grounds together. Power the Nano and motor driver through the buck converter. Connect motors to Cytron outputs and sensors to the listed pins.

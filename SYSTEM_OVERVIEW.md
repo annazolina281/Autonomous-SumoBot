@@ -1,0 +1,1 @@
+Arduino reads ultrasonic and IR sensors, decides between patrol, attack, and recovery states, then commands the Cytron motor driver.

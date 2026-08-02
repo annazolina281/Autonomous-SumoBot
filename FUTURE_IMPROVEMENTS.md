@@ -1,0 +1,3 @@
+- PID motor control
+- Better search strategy
+- IMU integration

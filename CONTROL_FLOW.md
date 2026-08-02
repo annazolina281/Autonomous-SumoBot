@@ -1,0 +1,1 @@
+Initialize -> Calibrate IR -> Wait 5s -> Read sensors -> Edge? -> Enemy? -> Move -> Repeat.

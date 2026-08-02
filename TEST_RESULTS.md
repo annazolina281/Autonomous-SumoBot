@@ -1,0 +1,1 @@
+Document IR thresholds, ultrasonic distance, PWM values, and observed robot behavior.

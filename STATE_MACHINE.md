@@ -1,0 +1,1 @@
+STARTUP -> PATROL -> ATTACK; IR boundary triggers REVERSE -> TURN -> PATROL.
